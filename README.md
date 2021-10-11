@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel 
 - 👀 I’m interested in data analysis and data visualization.
-- 🌱 I’m currently learning [R](https://rpubs.com/danielbz), SQL and Tableau; I will be learning Python soon and I'm excited! 
+- 🌱 I’m currently learning [R](https://rpubs.com/danielbz), SQL, Python and Tableau.
 - 💞️ I’m looking to collaborate on any project related to data analysis and data visualization. 
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/danielbzhang/)
